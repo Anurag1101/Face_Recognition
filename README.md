@@ -31,7 +31,7 @@ This project demonstrates a simple face detection system using `OpenCV's` Haar c
 
     pip install opencv-python
 
-Download **Haar Cascade File** Download the `haarcascade_frontalface_default.xml` file from the OpenCV GitHub repository and place it in the project directory.
+### Download **Haar Cascade File** Download the `haarcascade_frontalface_default.xml` file from the OpenCV GitHub repository and place it in the project directory.
 
 Usage
 Replace 1.jpg in the script with the path to your desired image.
