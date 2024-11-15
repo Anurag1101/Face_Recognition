@@ -52,9 +52,14 @@ After running the script, you will see the image with bounding `rectangles` arou
     ├── haarcascade_frontalface_default.xml  # Haar cascade file for face detection
     └── 1.jpg                        # Sample image (replaceable)
 
-Future Enhancements
-Add functionality to detect faces in real-time using a webcam.
-Integrate advanced face recognition models like deep learning-based detectors.
-Improve the UI for displaying results.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Future Enhancements:
+
+- Add functionality to detect faces in `real-time` using a webcam.
+
+- Integrate advanced `face recognition` models like deep learning-based detectors.
+
+- Improve the `UI` for displaying results.
+
+## License
+
+This project is licensed under the `MIT` License. See the LICENSE file for details.
