@@ -20,19 +20,18 @@ This project demonstrates a simple face detection system using `OpenCV's` Haar c
 
 - **OpenCV:** For face detection and image manipulation.
 
-Installation
-Clone the Repository
+## Installation:
 
-bash
-Copy code
-git clone https://github.com/your-username/Face_Recognition.git
-cd Face_Recognition
-Install Dependencies Ensure you have Python installed. Then, install OpenCV:
+### Clone the Repository
 
-bash
-Copy code
-pip install opencv-python
-Download Haar Cascade File Download the haarcascade_frontalface_default.xml file from the OpenCV GitHub repository and place it in the project directory.
+    git clone https://github.com/your-username/Face_Recognition.git
+    cd Face_Recognition
+
+**Install Dependencies** Ensure you have Python installed. Then, install `OpenCV`:
+
+    pip install opencv-python
+
+Download **Haar Cascade File** Download the `haarcascade_frontalface_default.xml` file from the OpenCV GitHub repository and place it in the project directory.
 
 Usage
 Replace 1.jpg in the script with the path to your desired image.
