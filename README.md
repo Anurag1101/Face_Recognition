@@ -1,7 +1,8 @@
-# **Face Recognition Using OpenCV**
+# Face Recognition Using OpenCV
 
-Overview
-This project demonstrates a simple face detection system using OpenCV's Haar cascade classifier. The system detects faces in an image and highlights them with rectangles.
+## Overview
+
+This project demonstrates a simple face detection system using `OpenCV's` Haar cascade classifier. The system detects faces in an image and highlights them with rectangles.
 
 Features
 Loads an image and resizes it for optimal performance.
