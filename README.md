@@ -45,13 +45,13 @@ This project demonstrates a simple face detection system using `OpenCV's` Haar c
 
 After running the script, you will see the image with bounding `rectangles` around detected faces.
 
-Project Structure
-bash
-Copy code
-Face_Recognition/
-├── face_recognition.py          # Main script for face detection
-├── haarcascade_frontalface_default.xml  # Haar cascade file for face detection
-└── 1.jpg                        # Sample image (replaceable)
+## Project Structure:
+
+    Face_Recognition/
+    ├── face_recognition.py          # Main script for face detection
+    ├── haarcascade_frontalface_default.xml  # Haar cascade file for face detection
+    └── 1.jpg                        # Sample image (replaceable)
+
 Future Enhancements
 Add functionality to detect faces in real-time using a webcam.
 Integrate advanced face recognition models like deep learning-based detectors.
