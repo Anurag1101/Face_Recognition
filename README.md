@@ -33,13 +33,14 @@ This project demonstrates a simple face detection system using `OpenCV's` Haar c
 
 ### Download **Haar Cascade File** Download the `haarcascade_frontalface_default.xml` file from the OpenCV GitHub repository and place it in the project directory.
 
-Usage
-Replace 1.jpg in the script with the path to your desired image.
-Run the script:
-bash
-Copy code
-python face_recognition.py
-The program will display the input image with detected faces highlighted.
+## Usage:
+
+- Replace 1.jpg in the script with the path to your desired image.
+
+- Run the script: python face_recognition.py
+
+- The program will display the input image with detected faces highlighted.
+
 Example Output
 After running the script, you will see the image with bounding rectangles around detected faces.
 
