@@ -14,9 +14,12 @@ This project demonstrates a simple face detection system using `OpenCV's` Haar c
 
 - Highlights detected faces with bounding rectangles.
 
-Technologies Used
-Python: For scripting and image processing.
-OpenCV: For face detection and image manipulation.
+## Technologies Used:
+
+- **Python:** For scripting and image processing.
+
+- **OpenCV:** For face detection and image manipulation.
+
 Installation
 Clone the Repository
 
