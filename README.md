@@ -4,11 +4,16 @@
 
 This project demonstrates a simple face detection system using `OpenCV's` Haar cascade classifier. The system detects faces in an image and highlights them with rectangles.
 
-Features
-Loads an image and resizes it for optimal performance.
-Converts the image to grayscale for better face detection.
-Detects faces using the Haar cascade classifier.
-Highlights detected faces with bounding rectangles.
+## Features:
+
+- Loads an image and resizes it for optimal performance.
+
+- Converts the image to grayscale for better face detection.
+
+- Detects faces using the Haar cascade classifier.
+
+- Highlights detected faces with bounding rectangles.
+
 Technologies Used
 Python: For scripting and image processing.
 OpenCV: For face detection and image manipulation.
