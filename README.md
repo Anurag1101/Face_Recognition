@@ -35,14 +35,15 @@ This project demonstrates a simple face detection system using `OpenCV's` Haar c
 
 ## Usage:
 
-- Replace 1.jpg in the script with the path to your desired image.
+- Replace `1.jpg` in the script with the path to your desired image.
 
-- Run the script: python face_recognition.py
+- Run the script: `python face_recognition.py`
 
 - The program will display the input image with detected faces highlighted.
 
-Example Output
-After running the script, you will see the image with bounding rectangles around detected faces.
+## Example Output:
+
+After running the script, you will see the image with bounding `rectangles` around detected faces.
 
 Project Structure
 bash
